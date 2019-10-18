@@ -1,4 +1,4 @@
-# Beatiful-soup-Twitter-Analysis
+# Beautiful-soup-Twitter-Analysis
 Scraping data from Various Twitter accounts and analysing them
 
 
